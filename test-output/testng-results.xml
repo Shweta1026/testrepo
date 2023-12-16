@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-29T12:17:17 IST" name="Default suite" finished-at="2023-11-29T12:17:36 IST" duration-ms="19448">
+    <groups>
+    </groups>
+    <test started-at="2023-11-29T12:17:17 IST" name="Default test" finished-at="2023-11-29T12:17:36 IST" duration-ms="19448">
+      <class name="mypackage.BrokenLinks">
+        <test-method signature="testLinks()[pri:0, instance:mypackage.BrokenLinks@477b4cdf]" started-at="2023-11-29T12:17:17 IST" name="testLinks" finished-at="2023-11-29T12:17:36 IST" duration-ms="19310" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinks -->
+      </class> <!-- mypackage.BrokenLinks -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
